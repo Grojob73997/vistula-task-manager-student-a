@@ -1,0 +1,17 @@
+### Local-only files (not pushed) ###
+student B takeout.md
+Prompt.md
+partner-contribution/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+.kotlin
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
